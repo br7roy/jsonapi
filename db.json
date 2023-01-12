@@ -1,9 +1,41 @@
 {
-	"code": 0,
-	"data": {
-		"taskId": 180
+	"create": {
+		"code": 0,
+		"data": {
+			"taskId": 180
+		},
+		"message": null,
+		"status": true,
+		"timestamp": null
 	},
-	"message": null,
-	"status": true,
-	"timestamp": null
+	"query": {
+		"status": true,
+		"data": {
+			"fetchTask": {
+				"taskId": 178,
+				"appType": "EssBase",
+				"appName": "SIC_PLN",
+				"scriptType": "ReportScript",
+				"scriptPath": "Plan1/test1year",
+				"scriptCode": "",
+				"startAt": null,
+				"finishAt": null,
+				"status": "FINISH",
+				"retryCount": null,
+				"lastSyncTimestamp": null,
+				"errorInfo": null,
+				"operator": "ftx",
+				"opIp": null,
+				"fileCount": null
+			},
+			"protocol": null,
+			"host": null,
+			"port": null,
+			"userName": null,
+			"password": null,
+			"fetchFiles": []
+		},
+		"code": 0,
+		"message": null
+	}
 }
