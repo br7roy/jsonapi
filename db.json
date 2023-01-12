@@ -1,1 +1,9 @@
-{"code":0,"data":{"taskId":180},"message":null,"status":true,"timestamp":null}
+{
+	"code": 0,
+	"data": {
+		"taskId": 180
+	},
+	"message": null,
+	"status": true,
+	"timestamp": null
+}
